@@ -6,9 +6,7 @@ Explore the Data
           read the dataset
           understand each feature and write down the details.
           explore the dataset info, describe and find columns with categories, and numeric columns as well.
-
 Data Cleaning:
-          
           Deleting redundant columns.
           Renaming the columns.
           Dropping duplicates.
